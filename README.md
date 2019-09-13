@@ -16,7 +16,7 @@ Check it out :point_right: [here](https://www.amazon.in/Anna-Emmanuel-Quote-Plus
 ### Science Quest
 <img src="https://images-na.ssl-images-amazon.com/images/I/81yhmS9qGzL.png" width="100" height="100"/>
 
-This is a skill which tells you interesting facts about areas relating to science.<br/>
+This alexa skill tells interesting facts about areas related to science.<br/>
 Language model in use: **English(IN)**<br/>
 Get this skill :point_right: [here](https://www.amazon.in/Anna-Emmanuel-Science-Quest/dp/B07V4Z7QX3/)<br/>
 
