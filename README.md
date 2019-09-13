@@ -1,7 +1,7 @@
 # Alexa-Skill
 My Amazon Alexa skill set :fire: :fire:
 ### भारत facts
-<img src="https://images-na.ssl-images-amazon.com/images/I/71ltNRpvPCL.png" width=30 height=30)
+<img src="https://images-na.ssl-images-amazon.com/images/I/71ltNRpvPCL.png" width="30" height="30"/>
 
 An Amazon Alexa skill developed using **Hindi(IN)** language model, which tells facts about India.<br/>
 You can check it out :point_right: [here](https://www.amazon.in/Anna-Emmanuel-India-Facts/dp/B07W5F1NTL/)<br/>
